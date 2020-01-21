@@ -1,0 +1,49 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 1. Introduction\n",
+    "\n",
+    "### 1.1 Background\n",
+    "Lima is Peru's capital city. The metropolitan area has 43 districts (50 counting Callao Constitutional Province) and it has over 9 million habitants. Over 40% of Peru's urban population lives in Lima and this number grows every year at 1.2%.\n",
+    "This amount of people require different services as the one of this analysis, restaurants and foods. The restaurants and foods business category has grown every month for the past 23 months, 3.93% in the last year, so it's a good choice for Lima citizens to start a business.\n",
+    "The objective of this data science project is to determine between 3 districts (San Isidro, Barranco and Miraflores) which is best to start a restaurant/food business. These districts were chose as are considered by Lima middle class as the top 3 destinations for entertainment and office location."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### 1.2 Data\n",
+    "The data used in this project is the following:\n",
+    " - 100 food venues in 1 km radius for each district (Miraflores, San Isidro and Barranco).\n",
+    " - Rating, price tier and quantity of likes for each venue.\n",
+    "\n",
+    "All this data was obtained through Foursquare API."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
